@@ -7,7 +7,7 @@
   background-size: contain;
 
   flex-direction: column;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 
 .subscription h2 {
